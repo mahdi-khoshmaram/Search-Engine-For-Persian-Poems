@@ -2,8 +2,8 @@
 
 Used packeges in this project:
     
-   Whoosh for indexing poems
+   1-Whoosh for indexing poems
    
-   Parsivar and Hazm for preprosesing
+   2-Parsivar and Hazm for preprosesing
    
-   Scikit learn for training 
+   3-Scikit learn for training 
